@@ -1,3 +1,8 @@
+# QUIZ app
+
+I was in a hurry so it has a lot of tsc errors. I`ll fix it soon.
+(There is also no tsc in run build script)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
