@@ -1,0 +1,263 @@
+{
+  "loader": [
+    "Sammlung für Sie finden...",
+    "Empfohlene Sammlungen laden...",
+    "Die besten Bücher für Sie sammeln...",
+    "Die besten Auswahlen abrufen...",
+    "Ihre personalisierten Empfehlungen zusammenstellen...",
+    "Fertig!"
+  ],
+  "email": {
+    "title": "E-Mail",
+    "subtitle": "Geben Sie Ihre E-Mail-Adresse ein, um vollen Zugriff zu erhalten",
+    "policy": [
+      "Indem ich fortfahre, stimme ich zu mit",
+      "Datenschutzrichtlinie",
+      "und",
+      "Nutzungsbedingungen."
+    ]
+  },
+  "thanks": {
+    "title": "Danke",
+    "subtitle": "für Ihre Unterstützung und das Bestehen des Quiz"
+  },
+  "quiz": {
+    "1": {
+      "title": "Was ist Ihre bevorzugte Sprache?",
+      "subtitle": "Sprache wählen",
+      "options": [
+        { "id": "en", "label": "Englisch" },
+        { "id": "fr", "label": "Französisch" },
+        { "id": "de", "label": "Deutsch" },
+        { "id": "es", "label": "Spanisch" }
+      ]
+    },
+    "2": {
+      "title": "Mit welchem Geschlecht identifizieren Sie sich?",
+      "subtitle": "Bitte teilen Sie uns mit, wie Sie sich identifizieren",
+      "options": [
+        { "icon": "👩", "label": "Weiblich", "id": 0 },
+        { "icon": "👨", "label": "Männlich", "id": 1 },
+        { "icon": "😉", "label": "Anderes", "id": 2 }
+      ]
+    },
+    "3": {
+      "title": "Wie alt sind Sie?",
+      "options": ["18-29 Jahre", "30-39 Jahre", "40-49 Jahre", "50+"]
+    },
+    "4": {
+      "title": "Was hassen Sie am meisten an einem Buch?",
+      "options": [
+        { "text": "Mangel an Logik", "id": 0 },
+        { "text": "Langsamkeit", "id": 1 },
+        { "text": "Mangel an Humor", "id": 2 },
+        { "text": "Ein zu allgemeines Ende", "id": 3 }
+      ]
+    },
+    "5": {
+      "title": "Was sind Ihre Lieblingsthemen?",
+      "subtitle": "Wählen Sie bis zu 3 Themen, die Sie mögen",
+      "options": {
+        "18-29": [
+          {
+            "id": 1,
+            "topic": "Selbstfindung",
+            "emoji": "🧘"
+          },
+          {
+            "id": 2,
+            "topic": "New Adult Romance",
+            "emoji": "❤️"
+          },
+          {
+            "id": 3,
+            "topic": "Karriereentwicklung",
+            "emoji": "💼"
+          },
+          {
+            "id": 4,
+            "topic": "Reisen und Abenteuer",
+            "emoji": "🌍"
+          },
+          {
+            "id": 5,
+            "topic": "Jugendliteratur",
+            "emoji": "📚"
+          },
+          {
+            "id": 6,
+            "topic": "Bewusstsein für psychische Gesundheit",
+            "emoji": "🧠"
+          },
+          {
+            "id": 7,
+            "topic": "Technologie und Innovation",
+            "emoji": "💡"
+          },
+          {
+            "id": 8,
+            "topic": "Fantasy und Sci-Fi",
+            "emoji": "🛸"
+          },
+          {
+            "id": 9,
+            "topic": "Zeitgenössische Literatur",
+            "emoji": "📖"
+          }
+        ],
+        "30-39": [
+          {
+            "id": 10,
+            "topic": "Elternschaft",
+            "emoji": "👶"
+          },
+          {
+            "id": 11,
+            "topic": "Work-Life-Balance",
+            "emoji": "⚖️"
+          },
+          {
+            "id": 12,
+            "topic": "Persönliche Finanzen",
+            "emoji": "💰"
+          },
+          {
+            "id": 13,
+            "topic": "Thriller und Krimis",
+            "emoji": "🕵️"
+          },
+          {
+            "id": 14,
+            "topic": "Heimwerker",
+            "emoji": "🏠"
+          },
+          {
+            "id": 15,
+            "topic": "Historische Romane",
+            "emoji": "📜"
+          },
+          {
+            "id": 16,
+            "topic": "Gesundheit und Fitness",
+            "emoji": "💪"
+          },
+          {
+            "id": 17,
+            "topic": "Kochen und Rezepte",
+            "emoji": "🍳"
+          },
+          {
+            "id": 18,
+            "topic": "Beziehungsberatung",
+            "emoji": "💞"
+          }
+        ],
+        "40-49": [
+          {
+            "id": 19,
+            "topic": "Karriereförderung",
+            "emoji": "📈"
+          },
+          {
+            "id": 20,
+            "topic": "Lebensmitte-Reflexionen",
+            "emoji": "🤔"
+          },
+          {
+            "id": 21,
+            "topic": "Reisen und Kultur",
+            "emoji": "✈️"
+          },
+          {
+            "id": 22,
+            "topic": "Historische Sachbücher",
+            "emoji": "🏛️"
+          },
+          {
+            "id": 23,
+            "topic": "Gartenarbeit und Landschaftsbau",
+            "emoji": "🌱"
+          },
+          {
+            "id": 24,
+            "topic": "Psychologische Thriller",
+            "emoji": "🧩"
+          },
+          {
+            "id": 25,
+            "topic": "Wellness und Achtsamkeit",
+            "emoji": "🧘‍♂️"
+          },
+          {
+            "id": 26,
+            "topic": "Klassische Literatur",
+            "emoji": "📚"
+          },
+          {
+            "id": 27,
+            "topic": "Hausorganisation",
+            "emoji": "📦"
+          }
+        ],
+        "50+": [
+          {
+            "id": 28,
+            "topic": "Ruhestandsplanung",
+            "emoji": "🏖️"
+          },
+          {
+            "id": 29,
+            "topic": "Historische Memoiren",
+            "emoji": "📖"
+          },
+          {
+            "id": 30,
+            "topic": "Spiritualität und Religion",
+            "emoji": "🙏"
+          },
+          {
+            "id": 31,
+            "topic": "Genealogie und Familiengeschichte",
+            "emoji": "🌳"
+          },
+          {
+            "id": 32,
+            "topic": "Kunsthandwerk und Hobbys",
+            "emoji": "🎨"
+          },
+          {
+            "id": 33,
+            "topic": "Gesundheit und Langlebigkeit",
+            "emoji": "🍎"
+          },
+          {
+            "id": 34,
+            "topic": "Reiseführer für Senioren",
+            "emoji": "🧳"
+          },
+          {
+            "id": 35,
+            "topic": "Inspirierende Geschichten",
+            "emoji": "🌟"
+          },
+          {
+            "id": 36,
+            "topic": "Kunst und Kultur",
+            "emoji": "🎭"
+          }
+        ]
+      }
+    }
+  },
+  "buttons": {
+    "next": "Weiter",
+    "download": "Meine Antworten herunterladen",
+    "retry": "Quiz erneut machen"
+  },
+  "placeholders": {
+    "email": "Ihre E-Mail"
+  },
+  "validators": {
+    "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+  }
+}
